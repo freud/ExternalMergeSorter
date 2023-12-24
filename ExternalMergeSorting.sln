@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "src\DataGenerator\DataGenerator.csproj", "{888EB071-FF0C-430E-A5AB-F7270A6AA0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalMergeSorter", "src\ExternalMergeSorter\ExternalMergeSorter.csproj", "{5B6EFA54-FF1B-4FB8-BECE-3269B370E7BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888EB071-FF0C-430E-A5AB-F7270A6AA0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888EB071-FF0C-430E-A5AB-F7270A6AA0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888EB071-FF0C-430E-A5AB-F7270A6AA0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888EB071-FF0C-430E-A5AB-F7270A6AA0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6EFA54-FF1B-4FB8-BECE-3269B370E7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6EFA54-FF1B-4FB8-BECE-3269B370E7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6EFA54-FF1B-4FB8-BECE-3269B370E7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6EFA54-FF1B-4FB8-BECE-3269B370E7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
